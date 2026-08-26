@@ -6,13 +6,13 @@ An enterprise-grade, secure, and fault-tolerant network designed and simulated i
 
 ## 👥 Team Members & Contributions
 *   **MD. Aminul Islam Ornab (ID: 22101569)** - *Lead Network Architect*  
-    *Cisco Packet Tracer (.pkt) Design, Hardware Port Mapping, and Core Implementation Documentation.*
+
 *   **Afaf Binta Shamsuddin (ID: 22101844)** - *Systems & Services Engineer*  
-    *Server configurations (DNS, Web, DHCP, Email) and Client PC Configuration.*
+
 *   **Dipannita Banik (ID: 24301043)** - *Routing & Validation Analyst*  
-    *Dynamic RIPv2 and Static routing logic validation, failover testing, and Ping Sweep logs.*
+
 *   **Syed Isfar Rahman (ID: 22201312)** - *Technical Writer & Quality Lead*  
-    *Report compilation, final VLSM Tree rendering, and presentation preparation.*
+
 
 ---
 
