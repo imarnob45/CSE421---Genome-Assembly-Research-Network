@@ -5,13 +5,13 @@ An enterprise-grade, secure, and fault-tolerant network designed and simulated i
 ---
 
 ## 👥 Team Members & Contributions
-*   **MD. Aminul Islam Ornab (ID: 22101569)** - *Lead Network Architect*  
+*   **MD. Aminul Islam Ornab (ID: 22101569)**  
 
-*   **Afaf Binta Shamsuddin (ID: 22101844)** - *Systems & Services Engineer*  
+*   **Afaf Binta Shamsuddin (ID: 22101844)** 
 
-*   **Dipannita Banik (ID: 24301043)** - *Routing & Validation Analyst*  
+*   **Dipannita Banik (ID: 24301043)**
 
-*   **Syed Isfar Rahman (ID: 22201312)** - *Technical Writer & Quality Lead*  
+*   **Syed Isfar Rahman (ID: 22201312)**
 
 
 ---
